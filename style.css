@@ -1,9 +1,23 @@
-body{
+body {
     background-color: lightgreen;
     color: darkgreen;
+    margin: 0px 150px;
+}
+
+body *{
+    margin: 30px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+.home-image {
+    width: 50%;
 }
 
 
-h1,h2{
+.container {
     text-align: center;
 }
