@@ -1,6 +1,7 @@
 body {
-    background-color: rgb(167, 160, 228);
-    color: darkgreen;
+    background-color: burlywood;
+    font-weight: bold;
+    color: rgb(40, 52, 40);
     margin: 0px 150px;
 }
 
