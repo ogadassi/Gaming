@@ -1,15 +1,16 @@
 body {
-    background-color: lightgreen;
+    background-color: rgb(160, 228, 188);
     color: darkgreen;
     margin: 0px 150px;
 }
 
-body *{
+body * {
     margin: 30px;
 }
 
 h1,
-h2 {
+h2,
+h3 {
     text-align: center;
 }
 
